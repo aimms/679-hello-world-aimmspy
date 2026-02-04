@@ -1,4 +1,4 @@
-# AIMMS How-To: Hello to the World of AIMMSPY from Python-Bridge
+# AIMMS How-To: Hello to the World of `aimmspy` from Python-Bridge
 
 ![AIMMS Version](https://img.shields.io/badge/AIMMS-25.5-white?style=for-the-badge&labelColor=009B00&color=00D400)
 
