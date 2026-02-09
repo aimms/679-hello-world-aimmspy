@@ -20,7 +20,7 @@ project = Project(
 
     # Path to the AIMMS project file (../hello.aimms).
     #aimms_project_file=projectfile,
-    aimms_project_file = "..\\AIMMS\\hello.aimms"
+    aimms_project_file = "..\\AIMMS\\679-hello-world-aimmspy.aimms"
 
     # licensing url
     # When needed, add your licensing URL here.
