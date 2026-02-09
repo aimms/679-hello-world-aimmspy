@@ -1,6 +1,6 @@
 ## ams_version=1.0
 
-Model Main_Hello {
+Model Main_Hello_World_aimmspy {
 	Set s_a {
 		Index: i_a;
 	}
